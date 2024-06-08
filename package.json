@@ -1,5 +1,5 @@
 {
-  "name": "PayTm App",
+  "name": "paytm",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -16,9 +16,12 @@
   "engines": {
     "node": ">=18"
   },
-  "packageManager": "npm@10.7.0",
+  "packageManager": "npm@10.2.4",
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "recoil": "^0.7.7"
+  }
 }
