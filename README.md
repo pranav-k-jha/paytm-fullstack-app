@@ -1,5 +1,11 @@
 # # paytm-fullstack-app | Turborepo starter
 
+## Homepage
+![Homepage](apps/assets/homepage.png)
+
+## Transactions
+![Transactions](apps/assets/txns.png)
+
 This is an official starter Turborepo.
 
 ## Using this example
